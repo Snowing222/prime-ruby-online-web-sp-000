@@ -4,4 +4,6 @@ def prime?(int)
     false
   else
     true
+
+  end
 end
